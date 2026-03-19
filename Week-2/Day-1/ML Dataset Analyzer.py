@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 dataset = [
     {"hours_studied": random.randint(1, 10), "score": random.randint(40, 100)} 
-    for _ in range(30)
+    for _ in range(30) 
 ]
 
 
