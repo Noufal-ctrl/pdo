@@ -1,0 +1,183 @@
+UserID,MovieName,Action,Romance,Comedy,Rating
+1,Avengers,3,2,4,3
+1,Interstellar,4,2,3,3
+1,Joker,4,3,3,3
+2,Forrest Gump,3,2,3,3
+2,Spider-Man,3,1,2,2
+2,Titanic,2,1,4,2
+3,The Matrix,4,1,4,3
+3,Frozen,3,3,1,2
+3,Up,4,3,1,3
+4,Avengers,3,2,3,3
+4,The Dark Knight,2,4,3,3
+4,Spider-Man,1,3,3,2
+4,The Notebook,3,1,2,2
+4,Interstellar,3,3,4,3
+5,Toy Story,2,3,1,2
+5,Up,2,4,4,3
+5,Interstellar,3,2,3,3
+6,The Matrix,2,3,3,3
+6,Deadpool,4,4,2,3
+6,Toy Story,2,4,3,3
+7,Deadpool,2,2,3,2
+7,The Hangover,1,3,5,3
+7,Joker,2,4,5,4
+7,Inception,2,3,5,3
+8,Toy Story,3,4,0,2
+8,Frozen,4,3,2,3
+8,Interstellar,5,1,2,3
+8,The Hangover,5,4,2,4
+8,The Dark Knight,4,2,3,3
+9,The Notebook,3,2,5,3
+9,Titanic,3,3,4,3
+9,Joker,2,2,3,2
+9,Forrest Gump,3,3,4,3
+10,Frozen,4,1,2,2
+10,Parasite,3,2,2,2
+10,Iron Man,4,4,3,4
+10,Shrek,5,2,1,3
+10,La La Land,4,3,5,4
+11,Toy Story,2,3,3,3
+11,Joker,1,4,4,3
+11,La La Land,3,2,5,3
+11,Gladiator,1,3,5,3
+11,Parasite,2,2,5,3
+11,Titanic,2,1,4,2
+12,Up,1,4,2,2
+12,Shrek,4,4,2,3
+12,Gladiator,3,3,3,3
+12,Interstellar,4,2,3,3
+12,Avengers,3,5,1,3
+12,The Notebook,1,5,3,3
+13,Avengers,5,3,2,3
+13,Interstellar,4,3,2,3
+13,Gladiator,5,3,1,3
+13,The Dark Knight,5,2,3,3
+13,Inception,5,2,3,3
+13,Spider-Man,4,3,4,4
+14,Parasite,2,2,3,2
+14,Avengers,2,2,4,3
+14,Inception,3,3,4,3
+14,Toy Story,4,2,5,4
+14,Deadpool,3,2,2,2
+15,The Hangover,3,2,4,3
+15,The Matrix,3,2,4,3
+15,La La Land,1,2,5,3
+15,Forrest Gump,3,1,4,3
+15,Parasite,3,2,4,3
+15,Interstellar,3,1,5,3
+16,Shrek,3,5,4,4
+16,Gladiator,1,3,3,2
+16,Up,3,5,5,4
+16,Inception,3,5,3,4
+16,Joker,3,3,3,3
+17,Avengers,2,2,3,2
+17,The Hangover,3,5,2,3
+17,Titanic,3,1,4,3
+17,Joker,4,3,2,3
+18,Interstellar,2,3,4,3
+18,Parasite,3,3,3,3
+18,Frozen,5,3,2,3
+18,La La Land,3,2,5,3
+19,Inception,4,2,3,3
+19,Spider-Man,5,1,2,3
+19,Toy Story,4,2,4,3
+20,Inception,3,1,5,3
+20,Titanic,5,4,2,4
+20,Iron Man,2,4,3,3
+21,The Matrix,4,3,2,3
+21,Shrek,4,0,1,2
+21,La La Land,4,1,4,3
+21,Spider-Man,2,2,3,2
+22,The Matrix,5,1,4,3
+22,Inception,4,2,3,3
+22,Titanic,5,2,3,3
+22,Avengers,4,3,3,3
+22,The Hangover,5,1,5,4
+22,Shrek,2,2,3,2
+23,The Dark Knight,3,4,2,3
+23,Iron Man,2,4,3,3
+23,Avengers,3,4,3,3
+24,The Matrix,3,4,3,3
+24,Parasite,2,3,3,3
+24,La La Land,3,4,3,3
+24,Frozen,4,3,3,3
+24,Deadpool,2,3,4,3
+24,Inception,3,5,4,4
+25,Titanic,3,3,3,3
+25,Gladiator,3,2,4,3
+25,The Hangover,3,2,5,3
+25,The Dark Knight,1,1,5,2
+26,Forrest Gump,5,3,3,4
+26,Titanic,4,2,3,3
+26,The Hangover,3,3,2,3
+26,Spider-Man,4,2,3,3
+27,Iron Man,3,2,3,3
+27,La La Land,4,2,2,3
+27,Deadpool,5,1,1,2
+27,Shrek,3,2,3,3
+27,The Notebook,5,3,2,3
+28,Gladiator,2,1,3,2
+28,Interstellar,2,3,3,3
+28,La La Land,3,4,4,4
+28,Toy Story,3,3,4,3
+29,The Matrix,4,3,3,3
+29,Deadpool,3,3,3,3
+29,Gladiator,5,3,5,4
+29,Avengers,3,3,3,3
+29,Forrest Gump,5,2,2,3
+29,Shrek,3,0,2,2
+30,Up,2,5,3,3
+30,Frozen,4,5,2,4
+30,The Notebook,2,4,1,2
+30,Forrest Gump,4,5,2,4
+30,Interstellar,1,5,2,3
+31,Avengers,4,3,2,3
+31,The Notebook,3,4,2,3
+31,La La Land,3,3,2,3
+32,The Matrix,3,3,4,3
+32,Avengers,1,1,5,2
+32,Inception,3,2,5,3
+32,The Hangover,3,4,5,4
+32,La La Land,5,4,3,4
+32,Interstellar,3,3,5,4
+33,Titanic,2,5,4,4
+33,Toy Story,1,3,0,1
+33,Frozen,2,4,4,3
+33,Joker,3,5,1,3
+33,Inception,1,3,3,2
+34,Avengers,3,0,2,2
+34,The Dark Knight,2,3,3,3
+34,The Notebook,4,2,1,2
+34,Spider-Man,3,3,2,3
+34,Joker,5,2,2,3
+34,La La Land,3,1,2,2
+35,Toy Story,2,4,3,3
+35,Deadpool,4,3,2,3
+35,Joker,4,3,3,3
+35,The Matrix,4,2,2,3
+35,Avengers,1,1,4,2
+35,The Notebook,5,2,3,3
+36,The Matrix,3,5,4,4
+36,The Notebook,2,3,1,2
+36,Avengers,3,3,1,2
+36,Inception,2,3,4,3
+36,Interstellar,3,4,4,4
+36,The Hangover,3,4,4,4
+37,Iron Man,3,3,2,3
+37,Forrest Gump,2,2,3,2
+37,Frozen,4,3,3,3
+38,Toy Story,4,2,2,3
+38,Spider-Man,3,3,2,3
+38,The Hangover,5,2,2,3
+38,The Notebook,4,2,3,3
+39,The Notebook,3,2,5,3
+39,Iron Man,3,1,4,3
+39,Deadpool,2,3,4,3
+39,La La Land,1,1,5,2
+39,Frozen,3,2,4,3
+39,Parasite,1,2,3,2
+40,Spider-Man,2,5,2,3
+40,Forrest Gump,2,5,2,3
+40,The Notebook,3,2,3,3
+40,Shrek,4,2,2,3
