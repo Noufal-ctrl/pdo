@@ -1,0 +1,22 @@
+[
+  {"user": "A", "action": "click", "time": 10},
+  {"user": "B", "action": "purchase", "time": 20},
+  {"user": "C", "action": "click", "time": 35},
+  {"user": "D", "action": "click", "time": 50},
+  {"user": "A", "action": "purchase", "time": 65},
+  {"user": "B", "action": "click", "time": 80},
+  {"user": "C", "action": "purchase", "time": 120},
+  {"user": "D", "action": "click", "time": 150},
+  {"user": "E", "action": "click", "time": 200},
+  {"user": "F", "action": "purchase", "time": 250},
+  {"user": "G", "action": "click", "time": 300},
+  {"user": "H", "action": "purchase", "time": 350},
+  {"user": "I", "action": "click", "time": 400},
+  {"user": "J", "action": "purchase", "time": 450},
+  {"user": "A", "action": "click", "time": 500},
+  {"user": "B", "action": "purchase", "time": 550},
+  {"user": "C", "action": "click", "time": 600},
+  {"user": "D", "action": "purchase", "time": 650},
+  {"user": "E", "action": "click", "time": 700},
+  {"user": "F", "action": "purchase", "time": 750}
+]

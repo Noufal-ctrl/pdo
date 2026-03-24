@@ -1,0 +1,122 @@
+[
+    {
+        "user": "A",
+        "action": "click",
+        "time_readable": "00:00:10",
+        "score": 1
+    },
+    {
+        "user": "B",
+        "action": "purchase",
+        "time_readable": "00:00:20",
+        "score": 5
+    },
+    {
+        "user": "C",
+        "action": "click",
+        "time_readable": "00:00:35",
+        "score": 1
+    },
+    {
+        "user": "D",
+        "action": "click",
+        "time_readable": "00:00:50",
+        "score": 1
+    },
+    {
+        "user": "A",
+        "action": "purchase",
+        "time_readable": "00:01:05",
+        "score": 5
+    },
+    {
+        "user": "B",
+        "action": "click",
+        "time_readable": "00:01:20",
+        "score": 1
+    },
+    {
+        "user": "C",
+        "action": "purchase",
+        "time_readable": "00:02:00",
+        "score": 5
+    },
+    {
+        "user": "D",
+        "action": "click",
+        "time_readable": "00:02:30",
+        "score": 1
+    },
+    {
+        "user": "E",
+        "action": "click",
+        "time_readable": "00:03:20",
+        "score": 1
+    },
+    {
+        "user": "F",
+        "action": "purchase",
+        "time_readable": "00:04:10",
+        "score": 5
+    },
+    {
+        "user": "G",
+        "action": "click",
+        "time_readable": "00:05:00",
+        "score": 1
+    },
+    {
+        "user": "H",
+        "action": "purchase",
+        "time_readable": "00:05:50",
+        "score": 5
+    },
+    {
+        "user": "I",
+        "action": "click",
+        "time_readable": "00:06:40",
+        "score": 1
+    },
+    {
+        "user": "J",
+        "action": "purchase",
+        "time_readable": "00:07:30",
+        "score": 5
+    },
+    {
+        "user": "A",
+        "action": "click",
+        "time_readable": "00:08:20",
+        "score": 1
+    },
+    {
+        "user": "B",
+        "action": "purchase",
+        "time_readable": "00:09:10",
+        "score": 5
+    },
+    {
+        "user": "C",
+        "action": "click",
+        "time_readable": "00:10:00",
+        "score": 1
+    },
+    {
+        "user": "D",
+        "action": "purchase",
+        "time_readable": "00:10:50",
+        "score": 5
+    },
+    {
+        "user": "E",
+        "action": "click",
+        "time_readable": "00:11:40",
+        "score": 1
+    },
+    {
+        "user": "F",
+        "action": "purchase",
+        "time_readable": "00:12:30",
+        "score": 5
+    }
+]
